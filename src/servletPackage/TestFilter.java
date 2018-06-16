@@ -26,7 +26,7 @@ public class TestFilter implements Filter {
             out.println("login error");
             out.close();
         }
-        //filterChain.doFilter(servletRequest, servletResponse);
+        filterChain.doFilter(servletRequest, servletResponse);
     }
 
     @Override
