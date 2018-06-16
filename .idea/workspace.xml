@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7dbe95b0-9b8d-480d-8edf-56f6243b6ff6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servletPackage/SessionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servletPackage/TestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servletPackage/TestFilter.java" afterDir="false" />
-    </list>
+    <list default="true" id="7dbe95b0-9b8d-480d-8edf-56f6243b6ff6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkSession.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="checkSession.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/servletPackage/checkSession.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestFilter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/servletPackage/TestFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
+            <state relative-caret-position="480">
               <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
             </state>
           </provider>
@@ -415,12 +410,12 @@
       <workItem from="1528768422005" duration="5172000" />
       <workItem from="1528983832662" duration="2737000" />
       <workItem from="1529036082064" duration="9535000" />
-      <workItem from="1529115011474" duration="5828000" />
+      <workItem from="1529115011474" duration="5966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31038000" />
+    <option name="totallyTimeSpent" value="31176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1021" extended-state="6" />
@@ -804,20 +799,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servletPackage/checkSession.java">
+    <entry file="file://$PROJECT_DIR$/src/servletPackage/TestFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/servletPackage/TestFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/servletPackage/checkSession.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
